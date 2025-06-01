@@ -1,0 +1,25 @@
+header {
+    background-color: aquamarine;
+    font-family:'Gill Sans';
+    font-size: large;
+}
+
+#header {
+    background-color: aquamarine;
+}
+
+h2 {
+    color: green;
+}
+
+#tableHeader {
+    background-color: rgb(178, 178, 241);
+}
+
+#oddRow {
+    background-color: blanchedalmond;
+}
+
+#evenRow {
+    background-color: aliceblue;
+}
